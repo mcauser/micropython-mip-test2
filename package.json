@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["test2a.py", "github:mcauser/micropython-mip-test2/src/test2a.py"],
+    ["test2b.py", "github:mcauser/micropython-mip-test2/src/test2b.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}
